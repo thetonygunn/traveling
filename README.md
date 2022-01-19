@@ -1,1 +1,1 @@
-# traveling
+This traveling website is displaying what I have learned in HTML, CSS, and Flexbox
